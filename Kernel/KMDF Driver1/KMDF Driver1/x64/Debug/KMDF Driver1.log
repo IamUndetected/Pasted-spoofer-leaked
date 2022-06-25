@@ -1,0 +1,9 @@
+﻿  Building 'KMDF Driver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\KMDFDriver1.inf
+  Stamping [Version] section with DriverVer=12/11/2021,0.49.53.527
+  main.c
+C:\Users\Corey\Desktop\Projects\Intergity Spoofer\Kernel\KMDF Driver1\KMDF Driver1\main.c(407,29): error C2220: the following warning is treated as an error
+C:\Users\Corey\Desktop\Projects\Intergity Spoofer\Kernel\KMDF Driver1\KMDF Driver1\main.c(407,29): warning C4995: 'MmGetSystemAddressForMdl': name was marked as #pragma deprecated
+C:\Users\Corey\Desktop\Projects\Intergity Spoofer\Kernel\KMDF Driver1\KMDF Driver1\main.c(407,29): warning C4996: 'MmMapLockedPages': was declared deprecated
+  util.c
+  Generating Code...

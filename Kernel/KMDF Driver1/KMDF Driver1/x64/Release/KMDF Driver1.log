@@ -1,0 +1,22 @@
+﻿  Building 'KMDF Driver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KMDFDriver1.inf
+  Stamping [Version] section with DriverVer=12/11/2021,0.59.34.646
+  KMDF Driver1.vcxproj -> C:\Users\Corey\Desktop\Projects\Intergity Spoofer\Kernel\KMDF Driver1\x64\Release\KMDFDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Corey\Desktop\Projects\Intergity Spoofer\Kernel\KMDF Driver1\x64\Release\KMDFDriver1.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Corey\Desktop\Projects\Intergity Spoofer\Kernel\KMDF Driver1\x64\Release\KMDF Driver1\kmdfdriver1.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Corey\Desktop\Projects\Intergity Spoofer\Kernel\KMDF Driver1\x64\Release\KMDF Driver1\kmdfdriver1.cat
+  
